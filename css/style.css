@@ -145,4 +145,13 @@ text-align: center;
     text-align: center;
 }
 
+#video iframe {
+    max-width: 100%;
+    }
+
+#video {
+    text-align: center;
+}
+
+
 }
